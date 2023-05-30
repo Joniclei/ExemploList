@@ -22,6 +22,7 @@ namespace ExList
       List<int> numeros = new List<int>();
 
       numeros.Add(10);
+      numeros.Add(9);
 
       //aqui uso o ferach para ler
       foreach(string x in nomes)
@@ -29,6 +30,12 @@ namespace ExList
         Console.WriteLine(x);
       }
 
+      foreach(int y in numeros)
+      {
+        Console.WriteLine(y);
+      }
+
+      
     }
   }
 }
