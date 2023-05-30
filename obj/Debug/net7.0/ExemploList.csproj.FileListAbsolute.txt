@@ -1,0 +1,15 @@
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExemploList/bin/Debug/net7.0/ExemploList
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExemploList/bin/Debug/net7.0/ExemploList.deps.json
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExemploList/bin/Debug/net7.0/ExemploList.runtimeconfig.json
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExemploList/bin/Debug/net7.0/ExemploList.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExemploList/bin/Debug/net7.0/ExemploList.pdb
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExemploList/obj/Debug/net7.0/ExemploList.csproj.AssemblyReference.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExemploList/obj/Debug/net7.0/ExemploList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExemploList/obj/Debug/net7.0/ExemploList.AssemblyInfoInputs.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExemploList/obj/Debug/net7.0/ExemploList.AssemblyInfo.cs
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExemploList/obj/Debug/net7.0/ExemploList.csproj.CoreCompileInputs.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExemploList/obj/Debug/net7.0/ExemploList.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExemploList/obj/Debug/net7.0/refint/ExemploList.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExemploList/obj/Debug/net7.0/ExemploList.pdb
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExemploList/obj/Debug/net7.0/ExemploList.genruntimeconfig.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExemploList/obj/Debug/net7.0/ref/ExemploList.dll
