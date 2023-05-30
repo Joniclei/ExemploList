@@ -35,7 +35,27 @@ namespace ExList
         Console.WriteLine(y);
       }
 
-      
+      nomes[0] = "Alteracao";
+      foreach(string a in nomes)
+      {
+        Console.WriteLine(a);
+      }
+      nomes.Remove("Alterecao");
+      nomes.Remove("pessoa2");
+      nomes.Remove("pessoa3");
+      nomes.RemoveAt(3);
+      numeros.RemoveAt(0);
+
+      foreach(string b in nomes)
+      {
+        Console.WriteLine(b);
+      }
+
+      foreach(int num in numeros)
+      {
+        Console.WriteLine(num);
+      }
+
     }
   }
 }
